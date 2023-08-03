@@ -1,0 +1,67 @@
+.Box1{
+    height: 300px;
+    width: 300px;
+    border: 3px dashed red;
+     margin-left: 20px
+}
+p{
+    background-color: limegreen;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+.Box2{
+    height: 300px;
+    width: 300px;
+    border: 3px dashed red;
+     margin-left: 20px
+}
+#na{
+    background-color: aquamarine;
+    padding:50px 60px 75px 80px;
+}
+#m{
+   background-color:blue;
+  max-width: 300px;
+ border:2px dotted black; 
+}
+#p{
+   background-color:blue;
+  width: 300px;
+ border:2px dotted black; 
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    border: 5px solid red;
+    padding: 5px 20px;
+    outline: 2px dashed blue;
+    outline-offset: 5px;
+    color: crimson;
+    background-color: black;
+    text-align: justify;
+    text-align-last: center;
+}
+.l{
+     height: 300px;
+    width: 300px;
+    border: 5px solid red;
+    margin-top: 20px;
+    margin-left: 20px;
+    outline: 2px dashed blue;
+    outline-offset: 5px; 
+   
+}
+.l p{
+    color: snow;
+    padding: 5px;
+    direction: ltr;
+     background-color: black;
+}
+#i{
+     vertical-align:text-top;
+}
+#l{
+    vertical-align: super;
+}
